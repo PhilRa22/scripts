@@ -18,3 +18,6 @@ if __name__ == '__main__':
     # compare(root_path, properties)
     # plot_features(root_path, properties)  # plots feauteres with all samples
     print('finished')
+
+
+    # just a test
